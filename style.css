@@ -20,6 +20,8 @@ body {
   position: relative;
   margin-top: 30px;
   justify-content: center;
+  background: black;
+  border-radius: 30px;
 }
 
 .slider-button-prev {
@@ -177,6 +179,7 @@ h1 {
   animation-name: button-animation;
   animation-duration: 2s;
   animation-delay: 2s;
+  bottom: 9em;
 }
 
 @keyframes button-animation {
@@ -185,6 +188,15 @@ h1 {
     left: -80px;
   }
 
+  25% {
+    background-color: #651fff;
+    left: -60px;
+  }
+
+  50% {
+    background-color: #18ffff;
+    left: -40px;
+  }
   100% {
     background-color: rgba(246, 246, 246, 0.1);
     left: 0px;
