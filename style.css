@@ -51,13 +51,14 @@ footer {
 }
 
 marquee {
-  background-color: #FFEB3B;
+  background-color: #fff59d;
   border-radius: 20px;
   font-size: 40px;
 }
 
 a {
   text-decoration-line: none;
+  color: blue;
 }
 
 .np-button {
@@ -65,9 +66,9 @@ a {
   bottom: 50px;
 }
 
-.section {
-  color: #e91e63;
-  background-color: #e0e0e0;
+.biodiversity {
+  color: white;
+  background-color: #555;
   font-size: 27px;
   border-radius: 28px;
   margin-bottom: 35px;
@@ -79,8 +80,8 @@ img {
 }
 
 .politics {
-  color: #d311a2;
-  background-color: #d7ccc8;
+  color: white;
+  background-color: #757575;
   font-size: 27px;
   border-radius: 28px;
   margin-bottom: 35px;
@@ -95,7 +96,7 @@ img {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #555;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -104,20 +105,20 @@ img {
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: rgba(246, 246, 246, 0.2);
 }
 
 .AboutNepal {
-  color: #ff6f00;
+  color: white;
   font-family: "Poppins-medium";
   font-size: 28px;
-  background-color: white;
+  background-color: #757575;
   border-radius: 26px;
   margin-bottom: 30px;
 }
 
 .unification {
-  color: #FFEB3B;
+  color: white;
   background-color: #757575;
   font-size: 27px;
   border-radius: 28px;
@@ -126,7 +127,6 @@ img {
 }
 
 .Readmore {
-  color: blueviolet;
   text-decoration: none;
 }
 
@@ -134,7 +134,6 @@ h2 {
   font-size: 80px;
   color: #18ffff;
   text-align: center;
-  background-color: black;
 }
 
 iframe {
@@ -152,7 +151,7 @@ h1 {
 .learn {
   text-align: center;
   font-size: 36px;
-  color: lime;
+  color: #18ffff;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -163,7 +162,7 @@ h1 {
 }
 
 .np {
-  color: lime;
+  color: white;
   font-size: 60px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
