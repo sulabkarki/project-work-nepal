@@ -197,6 +197,7 @@ h1 {
     background-color: #18ffff;
     left: -40px;
   }
+
   100% {
     background-color: rgba(246, 246, 246, 0.1);
     left: 0px;
@@ -204,6 +205,6 @@ h1 {
 }
 
 .link:hover {
-  background-color: rgba(250, 254, 170, 0.8);
+  background-color: yellow;
   color: black;
 }
