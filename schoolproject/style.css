@@ -10,10 +10,17 @@
 
 body {
   margin: 0px;
+  padding: 0px;
 }
+
 header {
   border-radius: 20px;
+  font-family: "Poppins-SemiBold";
+  background: silver;
+  padding: 10px;
+  align-self: center;
 }
+
 a {
   color: #ff1744;
 }
